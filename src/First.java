@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Harsh
+ * @author Shrishty
  */
 public class First extends javax.swing.JFrame {
 
