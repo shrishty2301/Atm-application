@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Harsh
+ * @author Shrishty
  */
 public class MiniStatement extends javax.swing.JFrame {
 
