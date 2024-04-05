@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Harsh
+ * @author Shrishty
  */
 public class PinChange extends javax.swing.JFrame {
 
