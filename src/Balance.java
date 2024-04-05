@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Harsh
+ * @author Shrishty
  */
 public class Balance extends javax.swing.JFrame {
 
