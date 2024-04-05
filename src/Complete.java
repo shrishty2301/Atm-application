@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Harsh
+ * @author Shrishty
  */
 public class Complete extends javax.swing.JFrame {
 
