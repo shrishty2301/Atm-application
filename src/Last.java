@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Harsh
+ * @author Shrishty
  */
 public class Last extends javax.swing.JFrame {
 
